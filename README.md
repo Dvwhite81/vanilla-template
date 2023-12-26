@@ -1,2 +1,1 @@
-# checkers
-# vanilla-template
+# Guess Who - JS
