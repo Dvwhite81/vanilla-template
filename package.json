@@ -1,6 +1,6 @@
 {
-  "name": "guess-who",
-  "description": "Guess Who game build with JavaScript",
+  "name": "vite-template",
+  "description": "Vite Template",
   "version": "1.0.0",
   "type": "module",
   "keywords": [
